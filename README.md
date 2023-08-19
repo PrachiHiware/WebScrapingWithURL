@@ -1,6 +1,6 @@
 # WebScrapingWithURL
 
-This code performs the following steps:__ __
+This code performs the following steps:<br />
 
 1 Imports the necessary libraries: urllib.request for making HTTP requests and BeautifulSoup for parsing HTML. <br />
 2 Uses urllib.request.urlretrieve() to download the content of a webpage from the specified URL and save it to a local file named text_file.txt.<br />
